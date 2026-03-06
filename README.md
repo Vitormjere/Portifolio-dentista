@@ -1,19 +1,19 @@
-# Portfólio Dentista
+# Dentist Portfolio
 
-Este projeto é um site desenvolvido utilizando HTML e CSS.
+This project is a website developed using **HTML and CSS**.
 
-## Objetivo
-Criar um site institucional para uma clínica odontológica, apresentando informações sobre a profissional, serviços oferecidos e formas de contato.
+## Objective
+Create an institutional website for a dental clinic, presenting information about the professional, services offered, and contact options.
 
-## Tecnologias utilizadas
+## Technologies Used
 - HTML
 - CSS
 
-## Funcionalidades
-- Página inicial
-- Apresentação da dentista
-- Lista de procedimentos
-- Formulário de contato
+## Features
+- Home page
+- Dentist presentation
+- List of procedures
+- Contact form
 
-## Autor
+## Author
 Vitor Miranda Jeremias
